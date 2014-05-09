@@ -1,0 +1,29 @@
+{
+  "name": "99admin",
+  "version": "0.0.1",
+  "homepage": "https://github.com/at99/99admin",
+  "authors": [
+    "vitrum.zhu <vitrum.cn@gmail.com>"
+  ],
+  "description": "Admin theme with Bootstrap Angular and D3.",
+  "main": "app.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "The",
+    "primary",
+    "endpoints",
+    "of",
+    "your",
+    "package"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
